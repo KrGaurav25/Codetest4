@@ -1,0 +1,72 @@
+.crouselimg {
+    width: 70%;
+    border-radius: 10px;
+    margin-right: 0%;
+}
+
+.fullcrousel {
+    margin: auto;
+    margin-top: 10px;
+    border: 5px solid black;
+    display: flex;
+    /* background-color: wheat; */
+    background-image: linear-gradient(to right, #FFA500, #9400D3);
+}
+
+.cardblockstyle {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 30px 120px;
+    padding: 0%;
+}
+
+.crousel2 {
+    flex: 200rem;
+    background-color: red;
+    margin: auto;
+    margin-left: 0%;
+    color: whitesmoke;
+
+}
+
+.fontC2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 30px;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: #FF2A18;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+.cardstyle {
+    width: 18rem;
+    margin: 0.5rem;
+    box-shadow: 0 15px 15px 0 black, 0 15px 15px 0 black;
+    margin: 15px;
+}
+
+/* .cardstyle:hover{
+    transform: scale(1.1);
+} */
+.shoplogo {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 60px;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: #D7F2F7;
+    font-weight: 700;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+}
